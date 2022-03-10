@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NoraTiku.github.io/amplify-react-app/static/css/main.073c9b0a.css",
-    "main.js": "/NoraTiku.github.io/amplify-react-app/static/js/main.e54a5f8b.js",
-    "static/js/787.179bae72.chunk.js": "/NoraTiku.github.io/amplify-react-app/static/js/787.179bae72.chunk.js",
-    "index.html": "/NoraTiku.github.io/amplify-react-app/index.html",
-    "main.073c9b0a.css.map": "/NoraTiku.github.io/amplify-react-app/static/css/main.073c9b0a.css.map",
-    "main.e54a5f8b.js.map": "/NoraTiku.github.io/amplify-react-app/static/js/main.e54a5f8b.js.map",
-    "787.179bae72.chunk.js.map": "/NoraTiku.github.io/amplify-react-app/static/js/787.179bae72.chunk.js.map"
+    "main.css": "/amplify-react-app/static/css/main.073c9b0a.css",
+    "main.js": "/amplify-react-app/static/js/main.e5311f22.js",
+    "static/js/787.179bae72.chunk.js": "/amplify-react-app/static/js/787.179bae72.chunk.js",
+    "index.html": "/amplify-react-app/index.html",
+    "main.073c9b0a.css.map": "/amplify-react-app/static/css/main.073c9b0a.css.map",
+    "main.e5311f22.js.map": "/amplify-react-app/static/js/main.e5311f22.js.map",
+    "787.179bae72.chunk.js.map": "/amplify-react-app/static/js/787.179bae72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e54a5f8b.js"
+    "static/js/main.e5311f22.js"
   ]
 }
