@@ -53,6 +53,31 @@ app.use(function(req, res, next) {
 });
 
 
+app.get(
+  "/born"
+  , async (req, res) => {
+
+    try {
+      const data = await axios.get("https://api.github.com/users/noratiku");
+
+      res.json({
+        bornOnInfo: data.data
+
+      });
+    }
+    catch (err) {
+      res.json({
+        error: err
+
+      });
+    }
+    
+
+
+  }
+);
+
+
 
 app.get('/item', function(req, res) {
   // Add your code here
