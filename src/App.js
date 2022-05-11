@@ -6,6 +6,8 @@ import { API } from 'aws-amplify'
 
 import './App.css';
 
+import { GithubBornOn } from './GithubBornOn';
+
 const App = () => {
 
 
@@ -70,6 +72,10 @@ const App = () => {
             </div>
           ))
         }
+
+        <hr></hr>
+        <GithubBornOn/>
+        
       </div>
     );
 }
